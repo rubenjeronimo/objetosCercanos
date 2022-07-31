@@ -24,3 +24,4 @@ inside `dist/` which you can host on static hosting service.
 This app is using [vite](https://vitejs.dev/) so you can check the documentation
 if you want to modify `vite.config.js` configuration if needed.
 "# objetosCercanos" 
+# objetoscercanos
